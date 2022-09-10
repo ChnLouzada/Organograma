@@ -1,2 +1,2 @@
 # organograma
-Projeto de organograma empresarial, desenvolvido com ReactJS.
+Projeto de organograma empresarial desenvolvido com ReactJS.
