@@ -4,11 +4,11 @@
 </h1>
 
 <br>
-<h2 align="center">Exercício de React.js <br>
+<h2 align="center"> React.js exercise. <br>
 <br>
 <a href="https://pt-br.reactjs.org/">🔗 React</a>   
 </h2>
-<p align="center">Projeto desenvolvido ao longo do curso de React com JavaScript da Alura.<br> Aplicação voltada para cadastro de funcionários.</p>
+<p align="center">Project developed along the course of React with JavaScript by Alura.<br> Application for employee registration.</p>
 <br>
 
 
@@ -16,7 +16,7 @@
 
 ##  Disposição
 
-O layout do aplicativo está disponível no Figma:
+The app layout is available on Figma:
 
 <a href="https://www.figma.com/file/T6BLI1HfB81eYOiVgpqQz7/Projeto-Intro-ao-React?node-id=134%3A128">
   <img src="https://img.shields.io/badge/Acessar%20Layout-Figma-brightgreen">
@@ -33,4 +33,4 @@ O layout do aplicativo está disponível no Figma:
 <br>
 
 
-Feito com muito carinho por Camila Louzada👋🏽 [ Entre em contato! ](https://www.linkedin.com/in/camila-louzada-a4669023b/)
+Made with love by Camila Louzada👋🏽 [ Get in touch! ](https://www.linkedin.com/in/camila-louzada-a4669023b/)
