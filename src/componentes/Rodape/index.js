@@ -6,23 +6,23 @@ const Rodape = () => {
        <ul>
             <li>
                 <a href="https://www.facebook.com/" target="_blank">
-                    <img src="/imagens/facebook.png" alt="" />
+                    <img src="/imagens/facebook.png" alt="Logo clicável do facebook." />
                 </a>
             </li>
             <li>
                 <a href="https://www.twitter.com" target="_blank">
-                    <img src="/imagens/twitter.png" alt="" />
+                    <img src="/imagens/twitter.png" alt="Logo clicável do twitter." />
                 </a>
             </li>
             <li>
                 <a href="https://www.instagram.com" target="_blank">
-                    <img src="/imagens/instagram.png" alt="" />
+                    <img src="/imagens/instagram.png" alt="Logo clicável do instagram." />
                 </a>
             </li>
         </ul>
        </section>
        <section>
-       <img src="/imagens/logo.png" alt="" />
+       <img src="/imagens/logo.png" alt="Logo da Organo." />
        </section>
        <section>
         <p>
