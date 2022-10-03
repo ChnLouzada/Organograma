@@ -1,5 +1,5 @@
-import Colaborador from '../Colaborador'
-import './Time.css'
+import Colaborador from '../Collaborator'
+import './Team.css'
 
 const Time = (props) => {
 

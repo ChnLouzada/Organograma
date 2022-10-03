@@ -1,4 +1,4 @@
-import './Rodape.css'
+import './Footer.css'
 
 const Rodape = () => {
     return (<footer className="footer">
